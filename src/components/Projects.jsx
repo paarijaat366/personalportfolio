@@ -7,7 +7,7 @@ const projectsData = [
     title: "Titanium iPhone clone",
     description:
       "A modern front end clone of iPhone titanium containing animations using different libraries.",
-    image: "Screenshot.png", // put any image or placeholder
+    image: "/Screenshot.png", // put any image or placeholder
     link: "https://iphone-clone-by-paarijaat.netlify.app/",
     isExternal: true,
   },

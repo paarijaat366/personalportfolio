@@ -45,7 +45,7 @@ const Loader = ({onFinish}) => {
     <div ref={loaderRef}
     className="fixed inset-0 bg-black flex items-center justify-center z-50">
       <div>
-        <img src="icon.jpeg" alt="" className='w-50 h-50 ml-10'/>
+        <img src="/icon.jpeg" alt="" className='w-50 h-50 ml-10'/>
         <div 
         className="w-64 h-1 bg-white/20 overflow-hidden" id='bar-container'>
           <div ref={barFillRef} 
