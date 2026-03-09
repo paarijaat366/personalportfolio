@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Loader from './components/Loader';
 import Hero from './components/Hero';
 import { BentoGrid } from './components/ui/BentoGrid';
-import Projects from './components/projects';
+import Projects from './components/Projects';
 import Grid from './components/grid';
 import Contact from './components/Contact';
 
