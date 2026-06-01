@@ -17,8 +17,8 @@ const Projects = () => {
   return (
 
     <section id="section" className="min-h-screen bg-neutral-950 text-white py-24 bg-[url(/bg.png)] bg-cover bg-center mt-20">
-      <h1 className="text-8xl ml-10 mt-20 font-serif">My Projects</h1>
-      <div className="max-w-7xl mx-auto px-6 space-y-32 mt-20">
+      <h1 className="text-6xl ml-10 mt-20 font-serif justify-center font-bold">My Projects</h1>
+      <div className="max-w-7xl mx-auto px-6 space-y-32 mt-30">
         {projectsData.map((project, index) => (
           <ProjectRow
             key={project.id}
