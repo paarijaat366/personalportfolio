@@ -26,7 +26,7 @@ export const index =
       id: 4,
       title: 'Tech enthusiast with a passion for development.',
       description: 'The Inside Scoop',
-      className: 'sm:col-span-1 md:col-span-2 lg:col-span-1 lg:row-span-1 bg-background border-gray-600 flex items-end justify-end bg-[url(/b4.svg)] bg-auto bg-center p-4',
+      className: 'sm:col-span-1 md:col-span-2 lg:col-span-1 lg:row-span-2 bg-background border-gray-600 flex items-end justify-end bg-[url(/b4.svg)] bg-auto bg-center p-4',
     },
     {
       id: 5,
